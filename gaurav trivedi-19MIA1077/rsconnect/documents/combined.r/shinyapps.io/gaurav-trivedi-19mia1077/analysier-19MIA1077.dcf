@@ -1,0 +1,13 @@
+name: analysier-19MIA1077
+title: analysier-19MIA1077
+username:
+account: gaurav-trivedi-19mia1077
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3110557
+bundleId: 3790299
+url: https://gaurav-trivedi-19mia1077.shinyapps.io/analysier-19MIA1077/
+when: 1603855615.17199
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|main.R|server.R|ui.R|4.0
